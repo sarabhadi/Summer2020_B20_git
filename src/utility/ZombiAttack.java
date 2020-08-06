@@ -9,6 +9,8 @@ public class ZombiAttack {
                 inhabitants[i] = input.nextInt();
             }
             //TODO. Write you code below this line.
+            //
+
             int cnt = 0, sum = 0;
             int[] num1 = new int[inhabitants.length];
             System.out.println("Day " + cnt + " " + Arrays.toString(inhabitants));
